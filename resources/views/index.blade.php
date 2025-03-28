@@ -5,6 +5,6 @@
         <title>Home</title>
     </head>
     <body>
-        <h1>Hello word</h1>
+        <h1>Hello word bro</h1>
     </body>
 </html>
